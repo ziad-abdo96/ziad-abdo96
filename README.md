@@ -1,98 +1,112 @@
-<h1 align="center">Hi 👋, I'm Ziad Abdo</h1>
-<h3 align="center">Backend Developer specializing in ASP.NET Core & C#</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziad-abdo96&label=Profile%20views&color=0e75b6&style=flat" alt="ziad-abdo96" />
-</p>
+# Hi there, I'm Ziad Abdo 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Backend+Developer+(.NET);ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+Clean%2C+Scalable+APIs" alt="Typing SVG" />
 
-### 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=ziad-abdo96&label=Profile%20Views&color=2D9CDB&style=flat" alt="profile views" />
 
-- 🔭 I'm currently building backend systems with **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**
-- 🏗️ I love applying **Clean Architecture**, **SOLID Principles**, and **Repository Pattern** in my projects
-- ⚡ Real-world projects: real-time chat apps (SignalR), e-commerce platforms, and management systems
-- 🌱 Currently exploring **microservices** and **cloud deployment**
-- 📫 Reach me at: **ziad.abdo.dev@gmail.com**
+<a href="https://linkedin.com/in/ziad-abdo96">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ziad.abdo.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
+
+## 🚀 About Me
+
+```yaml
+Role:        Backend Developer
+Focus:       ASP.NET Core, Clean Architecture, RESTful APIs
+Currently:   Building real-time systems & exploring microservices
+Reach me:    ziad.abdo.dev@gmail.com
+```
+
+- 🏗️ I build backend systems with **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**
+- 🧩 I apply **Clean Architecture**, **SOLID Principles**, and **Repository Pattern** in every project
+- ⚡ Recent work: real-time chat apps with **SignalR**, full-stack e-commerce, and management systems
+- 🌱 Currently learning **microservices** and **cloud deployment**
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,laravel,mysql,git,postman&theme=dark" />
 </p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+</p>
 
-### 📌 Featured Projects
+<br/>
 
-<table>
+## 📌 Featured Projects
+
+<table width="100%">
   <tr>
-    <td>
-      <a href="https://github.com/ziad-abdo96/ChatApp">
-        <b>💬 ChatApp</b>
-      </a>
-      <br/>
-      Real-time chat app using ASP.NET Core, SignalR, JWT Authentication & Clean Architecture
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/ziad-abdo96/ChatApp">ChatApp</a></h3>
+      Real-time chat application using ASP.NET Core, SignalR Hubs, JWT Authentication, and Clean Architecture.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/.NET%208-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/SignalR-blue?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/ziad-abdo96/Ecom-App.Net-8-With-Angular">Ecom-App</a></h3>
+      Full-stack e-commerce platform with a .NET 8 backend and Angular frontend, built on Clean Architecture.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/.NET%208-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/Angular-red?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/ziad-abdo96/Ecom-App.Net-8-With-Angular">
-        <b>🛒 Ecom-App</b>
-      </a>
-      <br/>
-      Full stack e-commerce platform built with .NET 8 and Angular following Clean Architecture
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/ziad-abdo96/Student-Management-System">Student Management System</a></h3>
+      University management system handling enrollment and courses with ASP.NET Core MVC and EF Core.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/SQL%20Server-red?style=flat-square" />
     </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ziad-abdo96/Student-Management-System">
-        <b>🎓 Student Management System</b>
-      </a>
-      <br/>
-      University management system using ASP.NET Core MVC, EF Core, and SQL Server
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ziad-abdo96/smartcare">
-        <b>🏥 SmartCare</b>
-      </a>
-      <br/>
-      Medical management platform built with Laravel, MySQL, and real-time Pusher notifications
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/ziad-abdo96/smartcare">SmartCare</a></h3>
+      Medical management platform with role-based access and real-time notifications via Pusher.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Laravel-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziad-abdo96&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad-abdo96&layout=compact&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ziad-abdo96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad-abdo96&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ziad-abdo96" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ziad.abdo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziad-abdo96&theme=tokyonight&hide_border=true" />
 </p>
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://linkedin.com/in/ziad-abdo96">
+  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
